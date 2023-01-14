@@ -6,7 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eddyvk01&label=Profile%20views&color=0e75b6&style=flat" alt="eddyvk01" /> </p>
 
-- 🔭 I’m currently working on [E-commerce](https://github.com/eddyvk01/E-Commerce)
+I'm Vineet from India, and I am a student of IIT-Roorkee.<br> I really enjoy learning languages and framework like django, as well as work in frontend.<br> I also enjoy wireframing and design in general. <hr>
+
+- 🔭 I’m currently working on improving myself :)
 
 - 🤝 I’m looking for help with **Web Development**
 
@@ -29,6 +31,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eddyvk01&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="eddyvk01" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eddyvk01&show_icons=true&locale=en&theme=tokyonight" alt="eddyvk01" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eddyvk01&show_icons=true&locale=en&theme=tokyonight&hide=prs" alt="eddyvk01" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eddyvk01&theme=tokyonight" alt="eddyvk01" /></p>
